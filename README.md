@@ -1,11 +1,12 @@
 # EvilHangman
 
-Evil Hangman is not the boring original version of hangman. The 
+Evil Hangman is not the boring original version of hangman. The computer constantly tries to dodge the player's guesses by changing the word it's supposedly thinking of.
+
 ### Features:
 *	Autosave progress
 *	Highscores
-*	Can switch to original hangman
 *	On screan keyboard
+*	Can switch to original hangman
 <br/>
 
 ![Alt text](http://s11.postimg.org/6i2n16jkz/20151106_191006.jpg)
