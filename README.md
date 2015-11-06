@@ -1,4 +1,4 @@
-# EvilHangman
+# Evil Hangman proposal
 
 Evil Hangman is not the boring original version of hangman. The computer constantly tries to dodge the player's guesses by changing the word it's supposedly thinking of.
 
