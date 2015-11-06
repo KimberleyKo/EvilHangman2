@@ -1,7 +1,11 @@
 # EvilHangman
 
-## Features:
-*	
+Evil Hangman is not the boring original version of hangman. The 
+### Features:
+*	Autosave progress
+*	Highscores
+*	Can switch to original hangman
+*	On screan keyboard
 <br/>
 
 ![Alt text](http://s11.postimg.org/6i2n16jkz/20151106_191006.jpg)
