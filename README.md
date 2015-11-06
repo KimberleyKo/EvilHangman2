@@ -6,7 +6,7 @@ Evil Hangman is not the boring original version of hangman. The computer constan
 *	Autosave progress
 *	Highscores
 *	On screan keyboard
-*	Can switch to original hangman
+*	Switch to play original hangman
 <br/>
 
 ![Alt text](http://s11.postimg.org/6i2n16jkz/20151106_191006.jpg)
