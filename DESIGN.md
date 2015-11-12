@@ -2,7 +2,7 @@
 
 Kimberley Köhler - kimberleydaniela@gmail.com - 10576371
 ##Interaction between the screens
-![ScreenInteraction](http://s19.postimg.org/qf8gsrlxv/Screen_Interaction.jpg "ScreenInteraction")
+![ScreenInteraction](http://s19.postimg.org/noz4vkp8z/Screen_Interaction.jpg "ScreenInteraction")
 ##Sketches of the screens
 ####MenuActivity
 ![MenuActivity](http://s19.postimg.org/9q70wupcj/20151112_152726.jpg "MenuActivity")
