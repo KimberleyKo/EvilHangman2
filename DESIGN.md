@@ -17,5 +17,5 @@ Kimberley Köhler - kimberleydaniela@gmail.com - 10576371
 ####SettingsActivity
 ![SettingsActivity](http://s19.postimg.org/uhzhrug2b/20151112_152737.jpg "SettingsActivity")
 <br>
-##Overview of model classes
-etc etc
+##Model
+![Model](http://s19.postimg.org/9ox4qz00j/Model.jpg "Model")
