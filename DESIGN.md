@@ -9,7 +9,7 @@ Kimberley Köhler - kimberleydaniela@gmail.com - 10576371
 ##Sketches of the screens
 ####MenuActivity
 ![MenuActivity](http://s19.postimg.org/9q70wupcj/20151112_152726.jpg "MenuActivity")
-![MenuActivity](http://s19.postimg.org/h7ewdhck3/2015_11_23_17_56_43.jpg "MenuActivity")
+![MenuActivity](http://s19.postimg.org/4u226kmvn/2015_11_23_17_56_43.jpg "MenuActivity")
 ####GameplayActivity
 ![GameplayActivity](http://s19.postimg.org/e4awuyaj7/20151112_152731.jpg "GameplayActivity")
 ####GameplayActivity when player has won
