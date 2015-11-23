@@ -13,7 +13,7 @@ Kimberley Köhler - kimberleydaniela@gmail.com - 10576371
 #####Versie 2
 ![MenuActivity](http://s19.postimg.org/4u226kmvn/2015_11_23_17_56_43.jpg "MenuActivity")
 ####GameplayActivity
-![GameplayActivity](http://s19.postimg.org/e4awuyaj7/20151112_152731.jpg "GameplayActivity")
+![GameplayActivity](http://s19.postimg.org/ip0cp1har/2015_11_23_17_33_29.jpg "GameplayActivity")
 ####GameplayActivity when player has won
 ![GameplayActivity-won](http://s19.postimg.org/jky632tar/20151112_152748.jpg "GameplayActivity-won")
 ####GameplayActivity when player has lost
