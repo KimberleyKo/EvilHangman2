@@ -13,7 +13,7 @@ Separate MenuActivity. <br>
 ![MenuActivity](http://s19.postimg.org/9q70wupcj/20151112_152726.jpg "MenuActivity")
 #####Version 2
 "Menu" will pop up in GameplayActivity. <br>
-![MenuActivity](http://s19.postimg.org/4u226kmvn/2015_11_23_17_56_43.jpg "MenuActivity")
+![MenuActivity](http://s19.postimg.org/ilkbe0fyr/2015_11_24_14_07_03.jpg "MenuActivity")
 ####GameplayActivity
 ![GameplayActivity](http://s19.postimg.org/ip0cp1har/2015_11_23_17_33_29.jpg "GameplayActivity")
 ####GameplayActivity when player has won
