@@ -25,5 +25,8 @@ Separate MenuActivity. <br>
 ####SettingsActivity
 ![SettingsActivity](http://s19.postimg.org/idwohi503/2015_11_24_14_07_11.jpg "SettingsActivity")
 <br>
-##Model
+###Model version 1
 ![Model](http://s19.postimg.org/9ox4qz00j/Model.jpg "Model")
+###Model version 2
+![Modelvs2](http://s19.postimg.org/dkhiqdxw3/Model_Activities.jpg "Modelvs2")
+
